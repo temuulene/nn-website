@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: d13e6d46-c1eb-477f-a018-0dcb0ecfdef5
+      url: 'https://nomuulin.netlify.app'

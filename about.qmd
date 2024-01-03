@@ -4,6 +4,8 @@ title: "About"
 
 About this site
 
+Test to add some content and push the change to my repo.
+
 ```{r}
 1 + 1
 ```
