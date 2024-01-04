@@ -1,8 +1,11 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
-  title: "nn-website"
+  title: "Nomuulin Namdag"
   navbar:
     left:
       - href: index.qmd
@@ -15,6 +18,4 @@ format:
     css: styles.css
     toc: true
 
-execute:
-  freeze: auto
 
