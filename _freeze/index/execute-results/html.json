@@ -1,7 +1,7 @@
 {
-  "hash": "2b09b0847ac26d62a08a61c5b787577b",
+  "hash": "3fc8addd08a2385c427d85b6e4ac0ee1",
   "result": {
-    "markdown": "---\ntitle: \"nn-website\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(cars)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"nn-website\"\n---\n\n\nThis is a Quarto website.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(airquality)\n```\n\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n",
     "supporting": [
       "index_files"
     ],
