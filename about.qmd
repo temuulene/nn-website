@@ -5,5 +5,5 @@ title: "About"
 About this site
 
 ```{r}
-2^6
+plot(cars)
 ```
