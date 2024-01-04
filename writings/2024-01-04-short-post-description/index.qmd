@@ -1,0 +1,13 @@
+---
+title: "Writing title"
+description: "post description (appears underneath the title in smaller text) which is included on the listing page"
+author:
+  - name: Nomuulin Namdag
+    url: https://nomuulin.netlify.app/
+date: 01-04-2024
+categories: [self, test] # self-defined categories
+citation: 
+  url: https://nomuulin.netlify.app/2024-01-04-short-post-description/ 
+image: test.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
