@@ -5,5 +5,5 @@ title: "About"
 About this site
 
 ```{r}
-plot(cars)
+plot(airquality)
 ```
