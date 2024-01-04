@@ -1,16 +1,21 @@
 ---
-title: "nn-website"
+title: "Nomuulin Namdag"
+image: headshot.jpeg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/nomnamdag/
+    - text: Email
+      href: mailto:nomuulin.namdag@gmail.com
 ---
 
-This is a Quarto website.
+Fueled by a love of science, Nomuulin trained to be a physician in her native country of Mongolia. During her medical training, she grew frustrated with the healthcare system's insufficient resources for chronic disease management. The desire to improve patients’ lives by strengthening healthcare systems led her to pursue a Healthcare Management degree in the United States. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+During her five years in US hospital administration, Nomuulin learned that abundant resources don’t always lead to high-quality patient care. In other words, systemic financial incentives often compromise the well-being of patients and HCPs, adding strain to healthcare workers. Nomuulin felt a growing sense of anxiety due to her workload imbalance combined with feelings of disillusionment with the system at large.
 
-```{r}
-1 + 1
-```
-
-```{r}
-plot(airmiles)
-```
+Now, Nomuulin utilizes her expertise to help organizations better meet patient needs. With her personal experience in seeking mental health support, and professional skills supporting patients with chronic disease, she specializes in writing to engage and educate audiences on chronic disease and mental health from a systemic perspective.
 

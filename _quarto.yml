@@ -10,12 +10,18 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: resume/Profile.pdf
+        text: About
+      - writings.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: quartz
+      dark: vapor
     css: styles.css
     toc: true
+    page-layout: full
 
-
+body-header: | 
+  ![Header image](/header.jpeg)
