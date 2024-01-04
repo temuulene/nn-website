@@ -1,7 +1,7 @@
 {
-  "hash": "d5704f3cfb286b6f209808c6dcc00ff6",
+  "hash": "1703163daa4cc38940237c0674e59af4",
   "result": {
-    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\nplot(cars)\n```\n\n::: {.cell-output-display}\n![](about_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "markdown": "---\ntitle: \"About\"\n---\n\n\nAbout this site\n\n\n::: {.cell}\n\n```{.r .cell-code}\n2^6\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 64\n```\n:::\n:::\n",
     "supporting": [
       "about_files"
     ],

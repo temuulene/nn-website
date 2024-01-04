@@ -5,5 +5,5 @@ title: "About"
 About this site
 
 ```{r}
-plot(cars)
+2^6
 ```
